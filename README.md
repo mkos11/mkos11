@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h2 align="center"> Hi there 👋
+</h2>
 <!--
 **mkos11/mkos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
