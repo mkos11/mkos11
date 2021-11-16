@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 
 I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
 
+- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 I can code with .net core and angular
+- ⚡ 2020 - I will upload my project on my github and share for everyone
+
 <br />
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
