@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
 
+[<img align="left" alt="http://sale-inventory.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 
 ## 🛠️ Skills and Technologies
 
