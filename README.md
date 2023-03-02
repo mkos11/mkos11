@@ -1,4 +1,4 @@
-
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 <!--
 **mkos11/mkos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
