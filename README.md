@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->\
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+
 <h2 align="center"> Hi theyR
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 </h2>
 <h2 align="center">
     Welcome to Mrunal's Profile! 
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 </h2>
 
 <img src="https://gpvc.arturio.dev/abxhr" alt="profile views">
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+
 &nbsp;
 &nbsp;
 &nbsp;
