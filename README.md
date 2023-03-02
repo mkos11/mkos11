@@ -1,4 +1,4 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+
 <!--
 **mkos11/mkos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h2>
 
 <img src="https://gpvc.arturio.dev/abxhr" alt="profile views">
-
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
