@@ -22,6 +22,38 @@ Here are some ideas to get you started:
 
 <img src="https://gpvc.arturio.dev/abxhr" alt="profile views">
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://user-images.githubusercontent.com/465125/151564444-07f17c75-0ad0-490b-8273-57b85c82d197.svg" />
+  </a>
+</p>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
