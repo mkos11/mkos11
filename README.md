@@ -120,6 +120,9 @@ I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
     <br/>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mkos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mkos&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mkos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkos&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+      <p align="center">
+  <img src="https://raw.githubusercontent.com/MrunalWaykos/Mrunalwaykos/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
