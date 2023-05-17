@@ -120,11 +120,21 @@ I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
     <br/>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mkos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mkos&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mkos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkos&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
-      <p align="center">
-  <img src="https://raw.githubusercontent.com/MrunalWaykos/Mrunalwaykos/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+   
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 </details>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
+<br/>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
