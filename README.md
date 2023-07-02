@@ -75,7 +75,7 @@ I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
    <a href="channel/UCgxPVGIvFsEc9VDNamZHCeA">
-    <img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-triangle&logo=youtube&logoColor=red">
+    <img src="https://img.shields.io/badge/Youtube-%ff0000.svg?&style=flat-triangle&logo=youtube&logoColor=white">
   </a>
 
 
