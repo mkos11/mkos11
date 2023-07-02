@@ -67,6 +67,11 @@ I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 I can code with .net core and angular
 - ⚡ 2020 - I will upload my project on my github and share for everyone
+- <h3 align="left">Connect with me:</h3>
+ <a href="https://instagram.com/mr.ykos________?igshid=Y2M0YTlkZGNmOQ==">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+
 
 <br />
 
