@@ -77,6 +77,9 @@ I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
    <a href="channel/UCgxPVGIvFsEc9VDNamZHCeA">
     <img src="https://img.shields.io/badge/Youtube-%ff0000.svg?&style=flat-triangle&logo=youtube&logoColor=white">
   </a>
+<h3 align="left">My CP Handles:</h3>
+  <a href="https://www.hackerearth.com/@mrunalwaykos15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mrunalwaykos" height="30" width="40" /></a>
+   <a href="https://trailblazer.me/id/mrunalwaykos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/trailblazer.svg" alt="mrunalwaykos" height="30" width="40" /></a>
 
 
 <br />
