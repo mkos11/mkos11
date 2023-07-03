@@ -83,10 +83,10 @@ I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
      <a href="https://www.kaggle.com/munnareview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrunalwaykos" height="30" width="40" /></a>
 
 <h3 align="left">My Certification:</h3>
-  1.  https://www.freecodecamp.org/certification/Mykos/front-end-development-libraries
-  2.  https://www.freecodecamp.org/certification/Mykos/responsive-web-design
-  3.  https://www.freecodecamp.org/certification/Mykos/javascript-algorithms-and-data-structures
-  4.  https://www.freecodecamp.org/certification/Mykos/machine-learning-with-python-v7
+  1.  https://www.freecodecamp.org/certification/Mykos/front-end-development-libraries/n
+  2.  /nhttps://www.freecodecamp.org/certification/Mykos/responsive-web-design
+  3.  /nhttps://www.freecodecamp.org/certification/Mykos/javascript-algorithms-and-data-structures
+  4.  /nhttps://www.freecodecamp.org/certification/Mykos/machine-learning-with-python-v7
 <br />
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
