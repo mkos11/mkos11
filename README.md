@@ -83,8 +83,9 @@ I'm Mrunal, an Undergraduate Entc From Sinhgad Institute of Technology 🎓
      <a href="https://www.kaggle.com/munnareview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrunalwaykos" height="30" width="40" /></a>
 
 <h3 align="left">My Certification:</h3>
-![](https://img.shields.io/badge/Notion-informational?style=flat-square&logo=freecodecamp&logoColor=white&color=000000)
-   <img align="https://www.freecodecamp.org/certification/Mykos/front-end-development-librariescenter" src="/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/trailblazer.me.svg" alt="mrunalwaykos" height="30" width="40" /></a>https://www.freecodecamp.org/certification/Mykos/front-end-development-libraries
+![](https://img.shields.io/badge/Notion-informational?style=flat-square&logo=Notion&logoColor=white&color=000000)
+   <img align="https://www.freecodecamp.org/certification/Mykos/front-end-development-librariescenter" src="/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/trailblazer.me.svg" alt="mrunalwaykos" height="30" width="40"/> </a>
+   https://www.freecodecamp.org/certification/Mykos/front-end-development-libraries
    https://www.freecodecamp.org/certification/Mykos/responsive-web-design
    https://www.freecodecamp.org/certification/Mykos/javascript-algorithms-and-data-structures
    https://www.freecodecamp.org/certification/Mykos/machine-learning-with-python-v7
