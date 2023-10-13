@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h2>
 
     Welcome to Mrunal's Profile! 
-                                            
+        <h2 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />                                    
 </h2>
 
 <img align="right" alt="GIF" src="https://github.com/anproghub/anproghub/blob/master/gif.gif?raw=true" width="390" height="270" />
