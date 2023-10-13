@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<img src="https://gpvc.arturio.dev/abxhr" alt="profile views">
+<img align="right" alt="GIF" src="https://github.com/anproghub/anproghub/blob/master/gif.gif?raw=true" width="390" height="270" />
 
 
 &nbsp;
