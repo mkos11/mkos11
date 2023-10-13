@@ -1,22 +1,8 @@
 
-<!--
-**mkos11/mkos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a Freelancer
-- 🌱 I’m currently learning Web development and Data science
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->\
 
 <h2 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi theyR
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-     
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-laptop-illustration-work-from-home-mascot-cartoon-character-people-isolated_138676-1075.jpg?w=740">
 	
    
 </h2>
