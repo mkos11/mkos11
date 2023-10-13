@@ -22,7 +22,7 @@ I'm Mrunal, an Undergraduate in Electronics Engineering from Sinhgad Institute o
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 I can code with .NET Core and Angular
+- 🥅 I can code with  Angular
 - ⚡ 2020 - I will upload my projects on GitHub and share them with everyone
 
 <h3 align="left">Connect with me:</h3>
