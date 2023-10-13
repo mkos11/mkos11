@@ -4,8 +4,7 @@
 	
    
 </h2>
-
-    Welcome to Mrunal's Profile! 
+ Welcome to Mrunal's Profile! <h2>
 
 <h2 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />                                    
 </h2>
