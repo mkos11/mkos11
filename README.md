@@ -6,7 +6,7 @@
 <h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 </h2>
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <img align="right" alt="GIF" src="https://github.com/anproghub/anproghub/blob/master/gif.gif?raw=true" width="390" height="270" />
 
 <p align="center">
@@ -60,7 +60,7 @@ I'm Mrunal, an Undergraduate in Electronics Engineering from Sinhgad Institute o
 - [Certification 3 Name](https://www.freecodecamp.org/certification/Mykos/javascript-algorithms-and-data-structures)
 - [Certification 4 Name](https://www.freecodecamp.org/certification/Mykos/machine-learning-with-python-v7)
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 ## 🛠️ Skills and Technologies
 
