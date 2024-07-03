@@ -14,15 +14,13 @@
     <img src="https://weather-icon.journeyad.repl.co/@Chennai?v=1" align="right">
  </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ 
   <img align="right" alt="GIF" src="https://github.com/anproghub/anproghub/blob/master/gif.gif?raw=true" width="390" height="270" />
 </p>
 
 <h2 align="center">Welcome to Mrunal's Profile!</h2>
-# 👋 Hey there! I'm mun!
+# 👋 Hey there! I'm Mrunal!
 
-[![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8)
-[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
 
 I'm Mrunal, an undergraduate student in Electronics Engineering at Sinhgad Institute of Technology 🎓.
