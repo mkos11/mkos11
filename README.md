@@ -62,6 +62,9 @@ I'm Mrunal, an undergraduate student in Electronics Engineering at Sinhgad Insti
   <a href="https://www.kaggle.com/munnareview" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/kaggle.svg" alt="mrunalwaykos" height="30" width="40" />
   </a>
+   <a href="https://www.behance.net/munnareview" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/kaggle.svg" alt="mrunalwaykos" height="30" width="40" />
+  </a>
 </p>
 
 <h2 align="center">My Certifications:</h2>
