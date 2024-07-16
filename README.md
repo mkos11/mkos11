@@ -53,23 +53,23 @@ I'm Mrunal, an undergraduate student in Electronics Engineering at Sinhgad Insti
 <h2 align="center">My CP Handles:</h2>
 
 <p align="center">
-  <a href="https://www.hackerearth.com/@mrunalwaykos15" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/hackerearth.svg" alt="mrunalwaykos" height="30" width="40" />
+  <a href="https://www.hackerearth.com/@mrunalwaykos15" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mrunalwaykos" height="30" width="40" />
   </a>
-  <a href="https://trailblazer.me/id/mrunalwaykos" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/trailblazer.me.svg" alt="mrunalwaykos" height="30" width="40" />
+  <a href="https://trailblazer.me/id/mrunalwaykos" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/trailblazer.svg" alt="mrunalwaykos" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/munnareview" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/kaggle.svg" alt="mrunalwaykos" height="30" width="40" />
+  <a href="https://www.kaggle.com/munnareview" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrunalwaykos" height="30" width="40" />
   </a>
-   <a href="https://www.behance.net/mrunalwaykos" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/kaggle.svg" alt="mrunalwaykos" height="30" width="40" />
+  <a href="https://www.behance.net/mrunalwaykos" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrunalwaykos" height="30" width="40" />
   </a>
- </a>
-   <a href="https://codepen.io/your-work" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/kaggle.svg" alt="mrunalwaykos" height="30" width="40" />
+  <a href="https://codepen.io/your-work" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mrunalwaykos" height="30" width="40" />
   </a>
 </p>
+
 
 <h2 align="center">My Certifications:</h2>
 
