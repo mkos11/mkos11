@@ -65,6 +65,10 @@ I'm Mrunal, an undergraduate student in Electronics Engineering at Sinhgad Insti
    <a href="https://www.behance.net/mrunalwaykos" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/kaggle.svg" alt="mrunalwaykos" height="30" width="40" />
   </a>
+ </a>
+   <a href="https://codepen.io/your-work" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/kaggle.svg" alt="mrunalwaykos" height="30" width="40" />
+  </a>
 </p>
 
 <h2 align="center">My Certifications:</h2>
