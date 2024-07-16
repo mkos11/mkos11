@@ -73,10 +73,12 @@ I'm Mrunal, an undergraduate student in Electronics Engineering at Sinhgad Insti
 
 <h2 align="center">My Certifications:</h2>
 
-- [Certification 1 Name](https://www.freecodecamp.org/certification/Mykos/front-end-development-libraries/n)
-- [Certification 2 Name](https://www.freecodecamp.org/certification/Mykos/responsive-web-design)
-- [Certification 3 Name](https://www.freecodecamp.org/certification/Mykos/javascript-algorithms-and-data-structures)
-- [Certification 4 Name](https://www.freecodecamp.org/certification/Mykos/machine-learning-with-python-v7)
+<ul>
+  <li><a href="https://www.freecodecamp.org/certification/Mykos/front-end-development-libraries" target="_blank">Front End Development Libraries</a></li>
+  <li><a href="https://www.freecodecamp.org/certification/Mykos/responsive-web-design" target="_blank">Responsive Web Design</a></li>
+  <li><a href="https://www.freecodecamp.org/certification/Mykos/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures</a></li>
+  <li><a href="https://www.freecodecamp.org/certification/Mykos/machine-learning-with-python-v7" target="_blank">Machine Learning with Python</a></li>
+</ul>
 
 <h2 align="center">Skills and Technologies 🛠️</h2>
 
