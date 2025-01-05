@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 🙋 My Name is Mrunal Waykos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">Hello<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
- <h3 align="center">A passionate Software Engineer From India</h3>
+ <h3 align="center">A passionate Data Engineer From India</h3>
 
  <p align="center">
   <img src="https://github.com/Amrin24/Amrin24/assets/141571950/936e46e4-5538-404e-8a99-a4662e2a4334" alt="girl">
