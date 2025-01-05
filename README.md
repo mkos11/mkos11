@@ -25,10 +25,10 @@
 
 I'm Mrunal, an undergraduate student in Electronics Engineering at Sinhgad Institute of Technology 🎓.
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣.
+- 🔭 I’m currently working on a Data Related Projects!
+- 🌱 I’m currently learning Data Engineering 🤣.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 I can code with Angular.
+- 🥅 I can code with pyspark, sql.
 - ⚡ 2020 - I will upload my projects on GitHub and share them with everyone.
 - After Enginnering i See World of Developers than realise i am just a bug in a vast see of Developers my reaction like
 - [![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/PJEJHU7wYxs)
