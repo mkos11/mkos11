@@ -26,7 +26,7 @@
 I'm Mrunal, an undergraduate student in Electronics Engineering at Sinhgad Institute of Technology 🎓.
 
 - 🔭 I’m currently working on a Data Related Projects!
-- 🌱 I’m currently learning Data Engineering 🤣.
+- 🌱 I’m a passionate Data Engineering 🤣.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 I can code with pyspark, sql.
 - ⚡ 2020 - I will upload my projects on GitHub and share them with everyone.
